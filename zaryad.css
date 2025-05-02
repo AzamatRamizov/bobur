@@ -1,0 +1,39 @@
+.div{
+    width: 400px;
+    height: 220px;
+    border: 2px solid green;
+    position: absolute;
+    top: 200px;
+    left: 400px;
+    background-color: green;
+    position: relative;
+}
+.ramka{
+    width: 200px;
+    height: 100px;
+    background-color: green;
+}
+.rasm{
+    width: 200px;
+    height: 100px;
+    margin-top: 50px;
+    margin-left: 90px;
+}
+.smoll{
+    width: 55px;
+    height: 90px;
+    position: absolute;
+    left: -55px;
+    top: 62px;
+    background-color: green;
+}
+.tugma{
+    width: 270px;
+    height: 70px;
+    color: blue;
+    background-color: chartreuse;
+    border-radius: 30px;
+    position: absolute;
+    bottom: 50px;
+    left: 450px;
+}

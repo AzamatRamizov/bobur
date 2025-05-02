@@ -1,0 +1,25 @@
+.kuk{
+    width: 550px;
+    border: 2px solid blue;
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap-reverse;
+}
+.yashil{
+    width: 90px;
+    height: 90px;
+    border: 2px solid green;
+    margin: 10px;
+}
+.qizil{
+    width: 90px;
+    height: 90px;
+    margin: 10px;
+    border: 2px solid red;
+}
+.sariq{
+    width: 90px;
+    height: 90px;
+    border: 2px solid yellow;
+    margin: 10px;
+}

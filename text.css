@@ -1,0 +1,24 @@
+.panda{
+    text-decoration-line: line-through;
+    text-decoration-color: red;
+    text-decoration-thickness: 5px;
+    text-decoration-style: dashed;
+    text-decoration: line-through red dotted 5px;
+    white-space: nowrap;
+}
+h1{
+    /* letter-spacing: 50px; */
+    /* letter-spacing: -2px; */
+    text-decoration: line-through blue solid 3px;
+}
+h2{
+    /* color: green; */
+    /* text-shadow: 2px 2px 4px #000000; */
+    /* text-shadow: 0 0 3px #ff0000; */
+}
+h3{
+    text-decoration: overline dashed aqua 7px;
+}
+h2{
+    text-decoration: underline dashed grey 10px;
+}

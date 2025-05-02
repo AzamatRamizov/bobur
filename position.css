@@ -1,0 +1,169 @@
+/* .oy{
+    width: 1000px;
+    height: 1000px;
+    border: 2px solid red;
+    position: relative;
+}
+.uy{
+    width: 100px;
+    height: 100px;
+    border: 2px solid blue;
+    position: absolute;
+    background-color: blanchedalmond;
+    left: 10px;
+    top: 10px;
+}
+.xona{
+    width: 200px;
+    height: 200px;
+    border: 2px solid aqua;
+    background-color: blue;
+    position: absolute;
+    
+    left: 50px;
+    top: 50px;
+}
+.pol{
+    width: 300px;
+    height: 300px;
+    border: 2px solid seagreen;
+    background-color: aqua;
+    position: absolute;
+} */
+body{
+    position: relative;
+}
+.io{
+    width: 200px;
+    height: 200px;
+    background-color: rgba(10, 235, 40, 1);
+    border-radius: 20px;
+    position: absolute;
+    z-index: 4;
+    top: 0;
+    left: 0;
+}
+.yul{
+    width: 200px;
+    height: 200px;
+    background-color: rgba(10, 235, 40, 0.6);
+    border-radius: 20px;
+    position: absolute;
+    top: 40px;
+    left: 0;
+    z-index: 3;
+}
+.tel{
+    width: 200px;
+    height: 200px;
+    background-color: rgba(10, 235, 40, 0.4);
+    border-radius: 20px;
+    position: absolute;
+    top: 80px;
+    left: 0;
+    z-index: 2;
+}
+.loy{
+    width: 200px;
+    height: 200px;
+    background-color: rgba(10, 235, 40, 0.4);
+    border-radius: 20px;
+    position: absolute;
+    top: 120px;
+    left: 0;
+    z-index: 1;
+}
+.hol{
+    width: 200px;
+    height: 200px;
+    background-color: rgba(173, 216, 230, 0.774);
+    position: absolute ;
+    border-radius: 20px;
+    top: 0;
+    left: 300px;
+    z-index: 5;
+}
+.zz{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(193, 218, 226);
+    border-radius: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 4;
+}
+.ss{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    background-color: rgb(148, 202, 219);
+    position: absolute;
+    top:0 ;
+    left:0 ;
+    z-index: 3;
+}
+.pp{
+    width: 350px;
+    height: 350px;
+    background-color: rgb(182, 216, 228);
+    border-radius: 30px;
+    position: absolute;
+    top: 0;
+    left:0 ;
+    z-index: 2;
+}
+.qq{
+    width: 400px;
+    height: 400px;
+    background-color: rgba(182, 216, 228, 0.397);
+    border-radius: 30px;
+    position: absolute;
+    top: 0;
+    left:0 ;
+    z-index: 1;
+}
+.pushti{
+    width: 200px;
+    height: 200px;
+    background-color: palevioletred;
+    border-radius:20px ;
+    position: absolute;
+    top:450px ;
+    left: 100px;
+    transform: rotate(400deg);
+    z-index: 5;
+}
+.oo{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(228, 119, 191);
+    border-radius:20px ;
+    position: absolute;
+    top:453px ;
+    left:80px ;
+    transform: rotate(210deg);
+    z-index: 4;  
+}
+.ll{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(240, 169, 228);
+    border-radius:20px ;
+    position: absolute;
+    top:450px ;
+    left:50px ;
+    transform: rotate(200deg);
+    z-index: 3;   
+}
+.tt{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(240, 134, 178);
+    border-radius:20px ;
+    position: absolute;
+    top:483px ;
+    left:30px ;
+    transform: rotate();
+    z-index: 2;  
+}

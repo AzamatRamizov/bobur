@@ -1,0 +1,49 @@
+.container{
+    width: 300px;
+    height: 300px;
+    border: 3px solid lightgray;
+    display: flex;
+}
+.container:hover{
+    border: 3px solid grey;
+}
+.div{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    animation-name: div;
+    animation-duration: 0.6s;
+    animation-iteration-count: infinite;
+    position: absolute;
+    top: 150px;
+}
+.div1{
+    background-color: darkblue;
+    left: 60px;
+}
+.div2{
+    background-color: aqua;
+    left: 120px;
+    animation-delay: 0.1s;
+}
+.div3{
+    background-color: lightblue;
+    left: 180px;
+    animation-delay: 0.2s;
+}
+.div4{
+    background-color: gold;
+    left: 240px;
+    animation-delay: 0.3s;
+}
+@keyframes div{
+    0%{
+        top: 150px;
+    }
+    50%{
+        top: 120px;
+    }
+    100%{
+        top: 150px;
+    }
+}

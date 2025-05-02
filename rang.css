@@ -1,0 +1,65 @@
+.container{
+    display: flex;
+}
+.div{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    position: absolute;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+.div1{
+    background-color: grey;
+    position: absolute;
+    margin-left: 400px;
+    animation-name: quti;
+}
+.div2{
+    background-color: aqua;
+    animation-name: idish;
+}
+@keyframes quti{
+    0% {
+        background-color: grey;
+        width: 250px;
+        height: 250px;
+    }
+    25% {
+        background-color: aqua;
+        width: 200px;
+        height: 200px;
+    }
+    75% {
+        background-color: red;
+        width: 250px;
+        height: 250px;
+    }
+    100% {
+        background-color: green;
+        width: 200px;
+        height: 200px;
+    }
+}
+@keyframes idish{
+    0% {
+        background-color: aqua;
+        width: 250px;
+        height: 250px;
+    }
+    25% {
+        background-color: red;
+        width: 200px;
+        height: 200px;
+    }
+    75% {
+        background-color: green;
+        width: 250px;
+        height: 250px;
+    }
+    100% {
+        background-color: grey;
+        width: 200px;
+        height: 200px;
+    }
+}

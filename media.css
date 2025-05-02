@@ -1,0 +1,106 @@
+.bigdiv{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.quti{
+    width: 25%;
+    height: 200px;
+    
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+    }
+.black{
+    background-color: black;
+}
+.aqua{
+    background-color: aqua;
+}
+/* @media only screen and (min-width: 1000px){
+    .quti{
+        width: 50%;
+    }
+} */
+@media only screen and (max-width:900px) and (min-width:600px){
+    .quti{
+        width: 80%;
+        box-shadow: 0 0 20px red;
+        position: absolute;
+        margin-left: 50px;
+    }
+    .green{
+        background-color: blue;
+    }
+    .yellow{
+        background-color: lightseagreen;
+    }
+    .black{
+        background-color: lightcoral;
+    }
+    .aqua{
+        background-color: green;
+    }
+}
+.katta{
+    width: 100%;
+    margin-top: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.box{
+    width: 10%;
+    height: 200px;
+}
+.bir{
+    background-color: aqua;
+}
+.ikki{
+    background-color: black;
+}
+.uch{
+    background-color: blue;
+}
+.turt{
+    background-color: blueviolet;
+}
+.besh{
+    background-color: brown;
+}
+.olti{
+    background-color: cadetblue;
+}
+.yetti{
+    background-color: chartreuse;
+}
+.sakkiz{
+    background-color: darkblue;
+}
+.tuqqiz{
+    background-color: darkred;
+}
+.un{
+    background-color: greenyellow;
+}
+/* @media only screen and (max-width:500px){
+    .box{
+        width: 30%;
+    }
+} */
+.mar{
+    width: 800px;
+    height: 100px;
+    background-color: blue;
+    margin-top: 100px;
+}
+.mm{
+    background-color: red;
+    color: aqua;
+}
+.kk{
+    background-color: green;
+    color: white;
+}

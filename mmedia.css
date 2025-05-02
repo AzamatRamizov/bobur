@@ -1,0 +1,125 @@
+.container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.big{
+    width: 25%;
+    height: 300px;
+    position: relative;
+}
+.big:hover {
+    background-color: darkblue;
+}
+.big:hover .small{
+    background-color: darkblue;
+}
+.small{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: -10px;
+    top: 135px;
+    transform: rotate(45deg);
+    z-index: 1;
+}
+.blueviolet{
+    background-color: blueviolet;
+}
+.lightblue{
+    background-color: lightblue;
+}
+.aqua{
+    background-color: aqua;
+}
+.lightgreen{
+    background-color: lightgreen;
+}
+.gold{
+    background-color: gold;
+}
+.lightsalmon{
+    background-color: lightsalmon;
+}
+.pink{
+    background-color: palevioletred;
+}
+.aquamarine{
+    background-color: aquamarine;
+}
+@media only screen and ( max-width:1000px) and ( min-width:500px){
+    .big{
+        width: 50%;
+    }
+    .big:nth-child(even) .small{
+        display: none;
+    }
+}
+@media only screen and (max-width:500px){
+    .big{
+        width: 100%;
+    }
+    .small{
+        display: none;
+    }
+}
+h2{
+    text-align: center;
+    color: white;
+}
+p{
+    text-align: center;
+    color: white;
+}
+
+
+
+.katta{
+    width: 100%;
+    height: 500px;
+    display: flex;  
+    flex-wrap: wrap;
+    margin-top: 100px;
+}
+.quti{
+    width: 20%;
+    height: 250px;
+    background-color: blue;
+}
+.kichik{
+    width: 20px;
+    height: 20px;
+    transform: rotate(45deg);
+    /* background-color: black;   */
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue ;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+
+.grey{
+    background-color: grey;
+}
+.yellowgreen{
+    background-color: yellowgreen;
+}
+.lightblue{
+    background-color: lightblue;
+}
+.lightgreen{
+    background-color: lightgreen;
+}
+.lightsalmon{
+    background-color: lightsalmon;
+}
+.aqua{
+    background-color: aqua;
+}

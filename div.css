@@ -1,0 +1,128 @@
+.bobur{
+    width:1000px;
+    height: 510px;
+    border: 4px solid pink;
+}
+.qizil{
+    width: 510px;
+    height: 500px;
+    border: 2px solid red;
+    margin-left: 270px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+}
+.sariq{
+    border: 2px solid yellow;
+    width: 470px;
+    height: 50px;
+    margin-left: 10px;
+    background-color: white;
+}
+.yashil{
+    width: 310px;
+    height: 420px;
+    border: 2px solid green;
+    margin-left: 3px;
+    background-color: white;
+    padding-bottom: 10px;
+}
+.kuk{
+    width: 290px;
+    height: 140px;
+    border: 2px solid blue;
+    margin-top: 258px;
+    margin-left: 6px;
+    background-color: white;
+    margin-bottom: 10px;
+}
+.olov{
+    width: 170px;
+    height: 420px;
+    border: 2px solid orangered;
+    margin-left: 7px;
+    background-color: white;
+}
+.bir{
+    width: 150px;
+    height: 115px;
+    border: 2px solid purple;
+    margin-left: 7px;
+    margin-top: 10px;
+    background-color: white;
+}
+.ikki{
+    width: 150px;
+    height: 115px;
+    border: 2px solid purple;
+    margin-left: 7px;
+    margin-top: 10px;
+    background-color: white;
+}
+.uch{
+    width: 150px;
+    height: 125px;
+    border: 2px solid purple;
+    margin-left: 7px;
+    margin-top: 10px;
+     background-color: white;
+}
+    
+.oq{
+    width: 1000px;
+    height: 200px;
+    border: 2px solid aqua;
+    margin-top: 20px;
+    background-color: lightblue;
+}
+.qish{
+    width: 800px;
+    height: 100px;
+    border: 2px solid green;
+    margin: 50px;
+    background-color: white;
+}
+body{
+    /* background-color: black; */
+}
+.bosh{
+    width: 800px;
+    height: 800px;
+    display: flex;
+}
+.hol{
+    width: 350px;
+    height: 750px;
+}
+.loh{
+    width: 350px;
+    height: 750px;
+}
+.kumush{
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+}
+.oltin{
+    width: 300px;
+    height: 200px;
+    border: 3px solid red;
+    margin-top: 5px;
+}
+.tilla{
+    width: 300px;
+    height: 100px;
+    border: 3px solid blue;
+}
+.yil{
+    width: 300px;
+    height: 270px;
+    border: 3px solid orangered;
+    margin-top: 5px;
+}
+.uy{
+    width: 300px;
+    height: 180px;
+    border: 3px solid purple;
+    margin-top: 5px;
+}

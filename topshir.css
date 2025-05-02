@@ -1,0 +1,126 @@
+.uy{
+    height: 600px;
+    width: 1200px;
+    /* border: 2px solid red; */
+}
+.lola{
+    width: 300px;
+    height: 200px;
+    background-color: blue;
+    text-align: center;
+    padding-top: 100px;
+}
+.lola:hover{
+    width: 300px;
+    height: 200px;
+    background-color:blueviolet;
+    cursor: pointer;
+}
+.xola{
+    width: 300px;
+    height: 200px;
+    background-color: lightblue;
+    position: absolute;
+    top:9px ;
+    left: 300px;
+    text-align: center;
+    padding-top: 100px;
+
+}
+.xola:hover{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(63, 63, 214);
+}
+.aa{
+    width: 300px;
+    height: 200px;
+    background-color: aqua;
+    position: absolute;
+    top:9px ;
+    left:600px ; 
+    text-align: center;
+    padding-top: 100px;
+}
+.aa:hover{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(60, 131, 211);
+    position: absolute;
+}
+.yy{
+    width: 300px;
+    height: 200px;
+    background-color: yellowgreen;
+    position: absolute;
+    top:9px ;
+    left:900px ;
+    text-align: center;
+    padding-top: 100px;
+}
+.yy:hover{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(66, 66, 172);
+}
+.ii{
+    width: 300px;
+    height: 200px;
+    background-color: yellow;
+    position: absolute;
+    top:0;
+    left: 0;
+    text-align: center;
+    padding-top: 100px;
+}
+.ii:hover{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(50, 53, 205);
+}
+.ee{
+    width: 300px;
+    height: 200px;
+    background-color: orangered;
+    position: absolute;
+    top: 0;
+    left: 300px;
+    text-align: center;
+    padding-top: 100px;
+}
+.ee:hover{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(55, 55, 112);
+}
+.dd{
+    width: 300px;
+    height: 200px;
+    background-color: pink;
+    position: absolute;
+    top: 0;
+    left: 600px;
+    text-align: center;
+    padding-top: 100px;
+}
+.dd:hover{
+    width: 300px;
+    height: 200px;
+    background-color: lightblue;
+}
+
+.ll{
+    width: 300px;
+    height: 200px;
+    background-color: lightblue;
+    position: absolute;
+    top: 0;
+    left: 900px;
+    text-align: center;
+    padding-top: 100px;
+}
+.ll:hover{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(62, 62, 131);
+}

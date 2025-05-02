@@ -1,0 +1,175 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+  }
+li a{
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #555;
+    color: white;
+  }
+.active{
+    background-color: blue;
+    color: white;
+}
+.a{
+    width: 200px;
+    height: 50px;
+    color: aqua;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    background-color: blue;
+}
+.s{
+    width: 200px;
+    height: 50px;
+    color: rgb(4, 0, 255);
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 238, 0);
+}
+.d{
+    width: 200px;
+    height: 50px;
+    color: gold;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    background-color: red;
+}
+.f{
+    width: 200px;
+    height: 50px;
+    color: black;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    background-color: green;
+}
+.div{
+    width: 250px;
+    height: 600px;
+    border-radius: 10px;
+    border: 2px solid blue;
+    padding: 0;
+    position: absolute;
+    top: 500px;
+    left: 10px;
+}
+.bir{
+    width: 100%;
+    height: 50px;
+    background-color: blue;
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+}
+li{
+    margin: 0;
+    padding: 0;
+}
+.as{
+    border: 0;
+    border-bottom: 2px solid black;
+}
+.bobur{
+    width: 800px;
+    height: 900px;
+    position: absolute;
+    top: 0;
+    left: 550px;
+}
+.uy{
+    width: 100%;
+    height: 100%;
+}
+.duv{
+    display: flex;
+    width: 100%;
+    background-color: grey;
+}
+.qush{
+    width: 100%;
+    height: 100vh;
+    background-color: grey;
+}
+h1{
+    color: green;
+    text-align: center;
+}
+ul{
+    display: flex;
+}
+.ikki{
+    width: 150px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 50px;
+    text-align: center;
+    display: flex;
+}
+.ikki:hover{
+    transform: translateY(-7px);
+    color: blue;
+    box-shadow:-0px 2px 5px blue;
+}
+.qul{
+    widows: 30px;
+    height: 30px;
+}
+.kul{
+    text-align: center;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+.home{
+    color: white;
+    font-size: 25px;
+    }
+.qiz{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 13px;
+    left: 1150px;
+}
+.logo{
+    font-size: 35px;
+}
+.dropdown{
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: gold;
+    min-width: 120px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    right: 0;
+}
+.dropdown-content a{
+    color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+.dropdown-content a:hover{
+    background-color: blueviolet
+}
+.dropdown:hover .dropdown-content{
+    display: block;
+}

@@ -1,0 +1,110 @@
+table, th, td {
+    border:1px solid black;
+    border-collapse: collapse;
+  }
+.bir{
+    width: 50%;
+    text-align: center;
+}
+.ikki{
+    text-align: center
+}
+.ish{
+    
+    width: 100%;
+    height: 97vh;
+}
+.rang{
+    width: 60px;
+    height: 50px;
+    border: 1px solid blue;
+    background-color: aqua;
+}
+.oq{
+    width: 50px;
+    height: 40px;
+    border:1px solid blue;
+    background-color: aliceblue;
+    margin: 4px;
+}
+.qizil{
+    width: 30px;
+    height: 30px;
+    border:1px solid red;
+    background-color: blue;
+    margin:7px;
+}
+.qish{
+    text-align:center;
+}
+.ff{
+    display: flex;
+    height: 100%;
+}
+.tish{
+    display: flex;
+    width: 30px;
+    height: 30px;
+    border: 1px solid red;
+    background-color: aqua;
+    margin: 10px;
+}
+.uy{
+    width: 30px;
+    height: 30px;
+    border: 1px solid red;
+    background-color: aqua;
+    margin: 10px;
+}
+.ona{
+    width: 30px;
+    height: 30px;
+    border: 1px solid red;
+    background-color: aqua; 
+    margin: 10px; 
+}
+.bobur{
+    width: 30px;
+    height: 30px;
+    border: 1px solid red;
+    background-color: aqua; 
+    margin-left: 70px;
+}
+.fil{
+    width: 30px;
+    height: 30px;
+    border: 1px solid red;
+    background-color: aqua; 
+    margin-left: 70px;
+}
+.shom{
+    width: 30px;
+    height: 30px;    
+    border: 1px solid red;
+    background-color: aqua;
+    margin-left: 70px; 
+}
+.asr{
+    width: 30px;
+    height: 30px;
+    border: 1px solid red;
+    background-color: aqua; 
+    margin-left: 70px;
+}
+.uy{
+    width: 30px;
+    height: 30px;
+    border: 1px solid red;
+    background-color: aqua;
+    margin-left: 70px; 
+}
+.olim{
+    flex-wrap: wrap;
+    display: flex;
+    height: 100%;
+    padding: 90px;
+}
+.table2{
+    width: 100%;
+    height: 100%;
+}

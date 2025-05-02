@@ -1,0 +1,84 @@
+.div{
+    width: 200px;
+    height: 300px;
+    border: 1px solid grey;
+}
+.bigdiv{
+    width: 200px;
+    height: 200px;
+    border: 1px solid lightgrey;
+}
+.rasm{
+    width: 200px;
+    height: 200px;
+}
+.harf{
+    text-align: center;
+}
+.bigdiv:hover .div{
+    border: 4px solid grey;
+}
+.katta{
+    width: 200px;
+    height: 300px;
+    border: 1px solid lightgrey;
+    position: absolute;
+    top: 10px;
+    left: 250px;
+}
+.ikki{
+    width: 200px;
+    height: 200px;
+    border: 1px solid lightgrey;
+}
+.rasem{
+    width: 200px;
+    height: 200px;
+    border: 1px solid lightgrey;
+}
+.harff{
+    text-align: center;
+}
+.katta:hover{
+    border: 4px solid grey;
+}
+.bid{
+    width: 200px;
+    height: 300px;
+    border: 1px solid lightgrey;
+    position: absolute;
+    top: 10px;
+    left: 500px;
+}
+.smoll{
+    width: 200px;
+    height: 200px;
+    border: 1px solid lightgrey;
+}
+.rrasim{
+    width: 200px;
+    height: 200px;
+}
+.bid:hover:hover{
+    border: 4px solid grey;
+}
+.eng{
+    width: 200px;
+    height: 300px;
+    border: 1px solid lightgrey;
+    position: absolute;
+    top: 10px;
+    left: 750px;
+}
+.urta{
+    width: 200px;
+    height: 200px;
+    border: 1px solid lightgrey;
+}
+.rasimm{
+    width: 200px;
+    height: 200px;
+}
+.eng:hover{
+    border: 4px solid grey;
+}

@@ -1,0 +1,41 @@
+.bigdiv{
+    width: 900px;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+}
+.all{
+    background-color: purple;
+    border: 3px solid orange;
+    width: 175px;
+    height: 150px;
+    margin: 20px;
+}
+.bir{
+    border-radius: 25px;
+    cursor: pointer;
+}
+.ikki{
+    border-radius: 60%;
+    counter-increment: ;
+}
+.uch{
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    cursor: col-resize;
+}
+.turt{
+    border-top-left-radius: 100%;
+    cursor: all-scroll;
+}
+.besh{
+    border-radius: 15px;
+}
+.olti{
+    border-top-left-radius: 100%;
+    border-bottom-right-radius: 100%; 
+}
+.yetti{
+    border-top-left-radius: 100%;
+    border-top-right-radius: 100%; 
+}

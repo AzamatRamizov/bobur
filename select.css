@@ -1,0 +1,12 @@
+.select{
+    width: 150px;
+    height: 80px;
+    color: darkblue;
+    background-color: gold;
+    text-align: center;
+    font-size: 25px;
+    box-shadow: 0 0 15px red;}
+.container{
+    width: 150px;
+    height: 50px;
+}

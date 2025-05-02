@@ -1,0 +1,51 @@
+.container{
+    background-color: blue;
+}
+.loading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    left: 0;
+    top: 0;
+    animation-name: yoqolish;
+    animation-delay: 1s;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+    animation-fill-mode: both;
+}
+.small{
+    width: 200px;
+    height: 200px;
+    border-top: 4px solid blue;
+    border-bottom: 4px solid red;
+    border-left: 4px solid green;
+    border-radius: 50%;
+    animation-name: aylanish;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+.rasm{
+    width: 400px;
+    height: 400px;
+}
+@keyframes aylanish{
+    from{ 
+     transform: rotate(0deg);  
+    }
+    to{ 
+        transform:rotate(360deg);
+    }
+}
+@keyframes yoqolish{
+    from{
+
+    }
+    to{
+        display: none;
+    }
+}

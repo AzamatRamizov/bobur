@@ -1,0 +1,91 @@
+.big{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.div{
+    width: 28%;
+    height: 600px;
+}
+.border{
+    border: 2px solid black;
+}
+h1{
+    text-align: center;
+    margin-top: 30px;
+}
+button{
+    width: 250px;
+    height: 50px;
+    margin-left: 50px;
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+}
+.bir{
+    color: rgb(220, 9, 44);
+    background-color: white;
+}
+.divuch{
+    background-color: palevioletred;
+}
+.qq{
+    color: white;
+}
+.ww{
+    color: white;
+}
+.rasm{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin-left: 130px;
+    margin-top: 20px;
+}
+.katta{
+    width: 800px;
+    height: 600px;
+    border: 1px solid red;
+    margin-top: 200px;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: blue;
+}
+.urta{
+    background-color: cornflowerblue;
+}
+.div{
+    width: 45%;
+    height: 100%;
+    border: 2px solid black;
+}
+.h1{
+    text-align: center;
+    margin-top: 60px;
+    color: white;
+    background-color: black;
+}
+.kichik{
+    background-color: gold;
+}
+
+
+
+.block{
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: center; */
+    /* justify-content: space-around; */
+    justify-content: space-evenly;
+}
+.box{
+    width: 20%;
+    height: 300px;
+    background: green;
+    margin: 1%;
+}

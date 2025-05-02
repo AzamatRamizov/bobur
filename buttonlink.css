@@ -1,0 +1,136 @@
+.loh{
+    width: 600px;
+    height: 600px;
+    border: 2px solid black;
+    background: white;
+}
+.loh:hover{
+    background-color: blue;
+    cursor: alias;
+}
+.osh{
+    width: 400px;
+    height: 200px;
+    border: 2px solid red;
+    background-color: white;
+    margin: 50px;
+}
+.osh:hover{
+    background-color: rgb(63, 20, 220);
+    cursor: cell;
+}
+.osh:active{
+    width:400px;
+    height: 200px;
+    border: 2px solid red;
+    background-color: aqua;
+}
+.xol{
+    width: 400px;
+    height: 200px;
+    background-color: white;
+    background-color: hotpink;
+    border: 2px solid yellow;
+    margin: 50px;
+    cursor: col-resize;
+}
+.loy{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(0, 255, 42);
+    border: 2px solid green
+}
+.loy:hover{
+    width: 200px;
+    height: 200px;
+    border: 2px solid green;
+    background-color: aqua;
+    cursor: pointer;
+}
+.loy:active{
+    background-color: blue;
+}
+.bola{
+    width: 700px;
+    height: 700px;
+    background-color: aqua;
+}
+.bola:hover{
+    width: 700px;
+    height: 700px;
+    background-color: white;
+    border: 2px solid black;
+}
+.bola:active{
+    width: 700px;
+    height: 700px;
+    background-color: rgba(255, 0, 0, 0.452);
+}
+.xola{
+    width: 600px;
+    height: 600px;
+    background-color: blue;
+    margin: 50px;
+}
+.xola:hover{
+    width: 600px;
+    height: 600px;
+    background-color: white;
+    border: 2px solid black;
+}
+.xola:active{
+    width: 600px;
+    height: 600px;
+    background-color:green ;
+}
+.ona{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(255, 0, 0);
+    margin: 50px;
+}
+.ona:hover{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    border: 2px solid black;
+}
+.ona:active{
+    width: 500px;
+    height: 500px;
+    background-color: darkslategray;
+}
+.ota{
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    margin: 50px;
+}
+.ota:hover{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border: 2px solid black;
+}
+.ota:active{
+    width: 400px;
+    height: 400px;
+    background-color: indigo;
+}
+.aka{
+    width: 300px;
+    height: 300px;
+    background-color: gold;
+    margin: 50px;
+}
+.aka:hover{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    border: 2px solid black;
+}
+.aka:active{
+    width: 300px;
+    height: 300px;
+    background-color: lime;
+}

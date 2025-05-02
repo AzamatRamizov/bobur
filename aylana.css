@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    opacity: 0.5;
+}
+.div{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    animation-name: aylana;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+.div1{
+    background-color: #365043;
+    margin-left: -100px;
+    animation-delay: 3s;
+}
+.div2{
+    background-color: #416559;
+    animation-delay: 2s;
+    margin-left: -50px;
+}
+.div3{
+    background-color: #588E77;
+    animation-delay: 1s;
+    z-index: 0.5;
+}
+.div4{
+    background-color: aqua;
+}
+@keyframes aylana{
+    0% {left: 0px;}
+    25% { left: 250px;}
+    50% { left: 500px;}
+    75% { left: 750px;}
+    100% { left: 900px;}
+}

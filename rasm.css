@@ -1,0 +1,147 @@
+.bigdiv{
+    width: 100%;
+    /* height: 500px; */
+    display:flex;
+    flex-wrap: wrap;
+}
+.div{
+    width: 25%;
+    height: 250px;
+}
+@media only screen and (max-width:1000px) and (min-width:500px){
+    .div{
+        width: 50%;
+    }
+}
+.div:hover{
+    background-color: darkblue;
+}
+/* .smol{
+    width: 50px;
+    height: 50px;
+    transform:rotate(45deg);
+    position: absolute;
+    background-color: darkblue;
+} */
+.bir{
+    position: relative;
+    background-color: blueviolet;
+}
+.smolbir{
+    width: 30px;
+    height: 30px;
+    transform: rotate(45deg);
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 225px;
+    background-color: blueviolet;
+}
+.ikki{
+    background-color: lightblue;
+}
+.smolikki{
+    width: 30px;
+    height: 30px;
+    transform: rotate(45deg);
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 225px;
+    background-color:lightblue ;
+}
+.uch{
+    position: relative;
+    background-color: aqua;
+}
+.smoluch{
+    position: relative;
+    width: 30px;
+    height: 30px;
+    transform: rotate(45deg);
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 225px;
+    background-color: aqua;
+}
+.turt{
+    background-color: lightgreen;
+}
+.besh{
+    position: relative;
+    background-color: gold;
+}
+.smolbesh{
+    width: 30px;
+    height: 30px;
+    transform: rotate(45deg);
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 225px;
+    background-color:gold   ;
+}
+.olti{
+    background-color: lightsalmon;
+}
+.smololti{
+    width: 30px;
+    height: 30px;
+    transform: rotate(45deg);
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 225px;
+    background-color: lightsalmon;
+}
+.yetti{
+    position: relative;
+    background-color: palevioletred;
+}
+.smolyetti{
+    width: 30px;
+    height: 30px;
+    transform: rotate(45deg);
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 225px;
+    background-color: palevioletred;
+}
+.sakkiz{
+    background-color: aquamarine;
+}
+.rasm{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+h2{
+    color: white;
+    text-align: center;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 80px;
+}
+p{
+    color: white;
+    text-align: center;
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 20px;
+}
+.div:hover .smolbir{
+    background-color: darkblue;
+}
+.div:hover .smolikki{
+    background-color: darkblue;
+}
+.div:hover .smoluch{
+    background-color: darkblue;
+}
+.div:hover .smolbesh{
+    background-color: darkblue;
+}
+.div:hover .smololti{
+    background-color: darkblue;
+}
+.div:hover .smolyetti{
+    background-color: darkblue;
+}

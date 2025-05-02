@@ -1,0 +1,30 @@
+.chiziq{
+    width: 800px;
+    height: 600px;
+    background-color: blue;
+    border: 10px double black;
+}
+.tosh{
+    width: 700px;
+    height: 500px;
+    background-color: cyan;
+    margin-top: 45px;
+    margin-left: 43px;
+    border: 11px ridge red;
+}
+.osh{
+    width: 600px;
+    height: 400px;
+    background-color: darkgreen;
+    margin-top: 45px;
+    margin-left: 43px;
+    border: 9px dotted orange;
+}
+.quyon{
+    width: 500px;
+    height: 300px;
+    background-color: khaki;
+    margin-top: 45px;
+    margin-left: 43px;
+    border: 13px solid blue;
+}
